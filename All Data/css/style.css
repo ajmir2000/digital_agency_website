@@ -1,0 +1,21 @@
+.social-box li {
+  width: 30px;
+  height: 30px;
+  background-color: #ff4900;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+}
+.search-box i {
+  position: absolute;
+  left: 5px;
+  top: 7px;
+}
+.upmenu {
+  background-color: #a8a8a8;
+}
+.contact-box i {
+  color: #ff4900;
+  font-size: 15px;
+}
