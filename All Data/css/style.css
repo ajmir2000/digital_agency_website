@@ -18,6 +18,9 @@ body {
   line-height: 30px;
   margin-left: 3px !important;
 }
+.social-box i{
+    margin-top: 7px;
+}
 .search-box i {
   position: absolute;
   left: 5px;
